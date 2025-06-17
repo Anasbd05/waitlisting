@@ -46,7 +46,7 @@ export default function Home() {
       <main className="flex items-center flex-col justify-center w-full">
         <div className="flex gap-1 items-center">
           <Image src={"/logo.png"} width={40} height={40} alt="logo image" />
-          <h1 className="text-accent text-2xl font-bold tracking-wide ">RapidAds</h1>
+          <h1 className="text-accent text-2xl font-bold tracking-wide ">RankyAds</h1>
         </div>
         <p className="mt-8 max-w-2xl leading-tight text-3xl sm:text-4xl lg:text-5xl font-bold text-center text-accent">
           We&#39;d love you to be apart of something big
