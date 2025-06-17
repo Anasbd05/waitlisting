@@ -53,9 +53,11 @@ export default function Home() {
         </p>
 
         <main className="px-5 py-8 rounded-lg mt-10 bg-gradient-to-br from-white to-[#cfcaee]">
-          <h1 className="text-xl md:text-2xl text-center font-semibold">Join the waitlist</h1>
-          <p className="text-start mt-2 max-w-xl font-medium ">
-            to get early access, exclusive updates, and special rewards — directly in your inbox.
+          <h1 className="text-xl md:text-2xl text-center font-bold">
+            Don’t Miss Out
+          </h1>
+          <p className="text-start mt-3 max-w-xl font-medium ">
+            Save your spot on the waitlist for early access and exclusive updates directly in your inbox.
           </p>
 
           <div className="p-2 bg-gray-100 rounded-md mt-4">
